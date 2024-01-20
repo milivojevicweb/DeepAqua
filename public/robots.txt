@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deepaqua.000webhostapp.com/sitemap.xml
